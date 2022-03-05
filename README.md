@@ -2,7 +2,7 @@
 Pangoro: powerful Python data cleaning toolkit.
 
 # What is it?
-pangoro is a Python package that provides fast and flexible methods for cleaning numerical and categorical features in a dataframe. It aims to be a fundamental tool for doing data wrangling in Python.
+Pangoro is a Python package that provides fast and flexible methods for cleaning numerical and categorical features in a dataframe. It aims to be a fundamental tool for doing data wrangling in Python.
 
 # Main Features
 Here are just a few of the things that pangoro does well:
