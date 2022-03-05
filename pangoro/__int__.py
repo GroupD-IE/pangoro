@@ -1,1 +1,1 @@
-import pangoro
+import pangoro.pangoro
