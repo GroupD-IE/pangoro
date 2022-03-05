@@ -6,7 +6,7 @@ Pangoro is a Python package that provides fast and flexible methods for cleaning
 
 # Main Features
 Here are just a few of the things that pangoro does well:
-###•	For numerical features, pangoro provides the following tools:
+##•	For numerical features, pangoro provides the following tools:
 	Handle NA, drop, replace with mean, replace with mode, lamda function, replace with a number, replace with min replace with max, Use KNN classifications. Keep
 	Handle outliers, Keep, Percentile
 	Scaling, standard or min max
